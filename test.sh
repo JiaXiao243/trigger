@@ -1,1 +1,1 @@
-echo "wa wkkkkkkka hhlllll This is a test! auto triggered! Yes it is succellllllssfully! "
+echo "This is a test! auto triggered! Yes it is successfully! "
