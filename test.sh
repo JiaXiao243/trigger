@@ -1,1 +1,1 @@
-echo "This is a parakeet repo!"
+echo " pull yesThis is a parakeet repo delete trigger on teamcity!"
