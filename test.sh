@@ -1,1 +1,1 @@
-echo "This is a parakeet!"
+echo "This is a parakeet repo!"
