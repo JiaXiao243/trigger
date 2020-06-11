@@ -1,1 +1,1 @@
-echo "pull=10 comment add* request  yesThis is a parakeet repo delete trigger on teamcity!"
+echo "pull=10 test=master comment add* request  yesThis is a parakeet repo delete trigger on teamcity!"
